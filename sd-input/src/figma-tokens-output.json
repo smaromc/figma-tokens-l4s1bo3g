@@ -853,11 +853,11 @@
     },
     "fontFamilies": {
       "nunito-sans": {
-        "value": "Nunito Sans",
+        "value": "NUNITO-SANS",
         "type": "fontFamilies"
       },
       "fontawesome": {
-        "value": "FontAwesome",
+        "value": "{fontFamilies.fontawesome}",
         "type": "fontFamilies"
       }
     },
