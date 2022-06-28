@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/rigid-market-u3vcc.figma-tokens-l4s1bo3g",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve UGYuCPMFZSfT8rktSHqQ --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
